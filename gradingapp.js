@@ -14,7 +14,7 @@ if (grade<100 && grade>=90) {
 }
 if (grade<79 && grade>=70) {
   alert("C");
-} else if (grade>65 && grade<69) {
+} else if (grade>=65 && grade<69) {
   alert("D");
 } else if (grade<65) {
   alert("F")
